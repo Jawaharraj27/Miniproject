@@ -65,10 +65,12 @@ Version Control: Git (optional for collaboration)
 <!--Embed the system architecture diagram-->
 
 ## Output
-<!--Embed the Output pictures-->
+
 Output 1 – Satellite Image Input
+<img width="454" height="514" alt="image" src="https://github.com/user-attachments/assets/25b8db7e-cd56-4435-99a8-4bda9b65ab69" />
 
 Output 2 – Image–Text Matching Result
+<img width="491" height="501" alt="image" src="https://github.com/user-attachments/assets/fcbb1028-0a67-44ab-b95e-92312a4676e8" />
 
 Matching Accuracy: ~95% (for high-quality images)
 Note: Accuracy may vary based on image resolution and dataset quality.
